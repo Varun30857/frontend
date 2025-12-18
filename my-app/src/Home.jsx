@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="home">
       <h1>
-        Welcome to <span>MyShop</span>
+        Welcome to <span>VK'S Shop</span>
       </h1>
 
       <p>Discover amazing products at unbeatable prices.</p>
